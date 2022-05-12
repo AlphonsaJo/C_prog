@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 //function definition and declaration
 //A variable or a function can be declared any number of times
 //A variable or a function can be defined only once

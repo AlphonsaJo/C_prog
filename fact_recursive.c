@@ -8,7 +8,6 @@ int fact(int n)
     else
     return 1;
 }
-
 int main(int x)
 {
     x=5;
