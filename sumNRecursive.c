@@ -7,7 +7,7 @@ int sum(int n)
 
 int main(int x)
 {
-    x=6;
+    x=-2;
     sum(x);
     printf("sum of %d is %d", x, sum(x));
 }
