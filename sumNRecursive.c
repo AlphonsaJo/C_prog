@@ -1,4 +1,5 @@
 #include <stdio.h>
+//number given as input must be greater than or equal to n
 int sum(int n)
 {
     while(n>1)
